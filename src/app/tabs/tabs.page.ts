@@ -13,3 +13,4 @@ export class TabsPage {
 
   constructor() {}
 }
+export class MySharedModule {}
